@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+p {
+    font-size: 12px;
+    /*text-transform: capitalize;
+    background-color: none;*/
+}
+
+.tablett {
+    font-size: 14px;
+
+}
+body {
+    margin-top: 50px ;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    text-align: justify;
+    font: cambia;
+    
+}
+
