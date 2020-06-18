@@ -1,0 +1,56 @@
+@charset "utf-8";
+
+p {
+    font-size: 12px;
+    /*text-transform: capitalize;
+    background-color: none;*/
+}
+body {
+    margin-top: 50px ;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    text-align: justify; 
+
+    font: "cambia", "Helvetica", sans-serif;
+    background-color: #ddf5fa;
+}
+b {
+    text-align: center;
+    display: block;
+}
+.title1 {
+    
+    border-width: 4px;
+    border-style: solid;
+    width: auto;
+    border-color: lightcoral;
+    color: rgb(62, 50, 152);
+    
+}
+.title2 {
+    color: rgb(3, 109, 19);
+}
+.title3 {
+    color: rgb(148, 0, 94);
+}
+.title4 {
+    color: rgb(53, 77, 20);
+}
+.title5 {
+    color: rgb(131, 13, 5);
+}
+.title6 {
+    color: rgb(3, 79, 92);
+}
+
+.tablett {
+    display: block;
+    border-radius: 1px;
+}
+.one {
+    border-width: 4px;
+    border-style: solid;
+    width: auto;
+    border-color: lightcoral;
+}
