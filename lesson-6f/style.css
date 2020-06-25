@@ -1,0 +1,95 @@
+@charset "utf-8";
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+body {
+    margin-top: 88px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;  
+}
+
+
+article {
+    display: inline-block;
+    width: 1008px;
+    height: 503px;
+    background-color: lavenderblush;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+
+}
+div {
+    display: inline-block;
+}
+img {
+    padding-top: 64px;
+    padding-right: 100px;
+    padding-bottom: 64px;
+    padding-left: 48px;
+}
+.picture, .text {
+    height: 507px;
+}
+.text {
+    display: inline-block;
+    width: 398px;
+    /*height: 328px;*/
+    padding-top: 92px;
+    /*padding-right: 90px; съезжает вних 
+    при задании параметров*/
+    /*vertical-align: top;*/
+    /*float: right;*/
+    vertical-align: top;
+    font-weight: normal;
+
+}
+
+.name {
+    /*margin: 0;*/
+    padding-bottom: 31px;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: Arial;
+
+}
+.discription {
+    padding-bottom: 51px;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: Arial;
+}
+p {
+    margin: 0;
+}
+
+.price1 {
+    padding-bottom: 18px;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: Arial;
+}
+
+.price2 {
+    padding-bottom: 49px;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: Arial;
+}
+
+button {
+    width: 252px;
+    height: 50px;
+    color: #ffffff;
+    background-color: #ec744a;
+    font-size: 18px;
+    font-style: Arial;
+    font-weight: normal;
+
+}
+/*тексты и шрифты */
+
