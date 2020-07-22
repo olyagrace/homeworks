@@ -1,0 +1,88 @@
+@charset "UTF-8";
+/* line 5, ../../../../../../../../../../../../../Volumes/olya grace/Программирование/Видео уроки/веб старт - Артем Исламов/11. Препроцессоры в CSS/lesson-10/sass/style.sass */
+.footer {
+  margin-top: 60px;
+  background-color: #131313;
+  padding: 59px 0;
+  color: #666666;
+}
+
+/* line 10, ../../../../../../../../../../../../../Volumes/olya grace/Программирование/Видео уроки/веб старт - Артем Исламов/11. Препроцессоры в CSS/lesson-10/sass/style.sass */
+.footer-policy-link {
+  font-size: 12px;
+}
+
+/* line 12, ../../../../../../../../../../../../../Volumes/olya grace/Программирование/Видео уроки/веб старт - Артем Исламов/11. Препроцессоры в CSS/lesson-10/sass/style.sass */
+.footer p {
+  margin-bottom: 14px;
+}
+
+/* line 14, ../../../../../../../../../../../../../Volumes/olya grace/Программирование/Видео уроки/веб старт - Артем Исламов/11. Препроцессоры в CSS/lesson-10/sass/style.sass */
+.footer a {
+  color: #666666;
+  text-decoration: none;
+}
+
+/* line 17, ../../../../../../../../../../../../../Volumes/olya grace/Программирование/Видео уроки/веб старт - Артем Исламов/11. Препроцессоры в CSS/lesson-10/sass/style.sass */
+.footer a:hover {
+  color: #ffffff;
+}
+
+/* line 19, ../../../../../../../../../../../../../Volumes/olya grace/Программирование/Видео уроки/веб старт - Артем Исламов/11. Препроцессоры в CSS/lesson-10/sass/style.sass */
+.footer small {
+  display: block;
+  margin-top: 56px;
+  line-height: 16px;
+  font-size: 10px;
+  min-width: 80%;
+}
+
+/* line 25, ../../../../../../../../../../../../../Volumes/olya grace/Программирование/Видео уроки/веб старт - Артем Исламов/11. Препроцессоры в CSS/lesson-10/sass/style.sass */
+.footer ul {
+  padding: 0;
+  list-style: none;
+}
+
+/* line 28, ../../../../../../../../../../../../../Volumes/olya grace/Программирование/Видео уроки/веб старт - Артем Исламов/11. Препроцессоры в CSS/lesson-10/sass/style.sass */
+.footer ul li {
+  line-height: 32px;
+}
+
+/* line 33, ../../../../../../../../../../../../../Volumes/olya grace/Программирование/Видео уроки/веб старт - Артем Исламов/11. Препроцессоры в CSS/lesson-10/sass/style.sass */
+.footer-contacts .footer-social-links {
+  text-align: right;
+}
+
+/* line 36, ../../../../../../../../../../../../../Volumes/olya grace/Программирование/Видео уроки/веб старт - Артем Исламов/11. Препроцессоры в CSS/lesson-10/sass/style.sass */
+.footer-contacts_phone {
+  font-weight: 400;
+  font-size: 20px;
+  color: #009adf;
+}
+
+/* line 43, ../../../../../../../../../../../../../Volumes/olya grace/Программирование/Видео уроки/веб старт - Артем Исламов/11. Препроцессоры в CSS/lesson-10/sass/style.sass */
+.footer-social-links li {
+  display: inline-block;
+}
+
+/* line 45, ../../../../../../../../../../../../../Volumes/olya grace/Программирование/Видео уроки/веб старт - Артем Исламов/11. Препроцессоры в CSS/lesson-10/sass/style.sass */
+.footer-social-links li a {
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  background-color: rgba(255, 255, 255, 0.1);
+  text-align: center;
+  border-radius: 50%;
+  line-height: 42px;
+  margin-left: 10px;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+/* line 56, ../../../../../../../../../../../../../Volumes/olya grace/Программирование/Видео уроки/веб старт - Артем Исламов/11. Препроцессоры в CSS/lesson-10/sass/style.sass */
+.footer-social-links li a:hover {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #131313;
+}
+
+/*# sourceMappingURL=style.css.map */
